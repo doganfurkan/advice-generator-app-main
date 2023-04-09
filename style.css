@@ -129,6 +129,17 @@ body{
 }
 
 @media screen and (min-width:700px) {
+
+    #themeChanger{
+        width:3.5rem;
+        right:3.5rem;
+        top:3.5rem;
+    }
+
+    #themeChanger img{
+        transform: scale(1.25);
+    }
+
     #adviceCard{
         padding:3rem 3rem 2.75rem;
         margin-bottom:2rem;
