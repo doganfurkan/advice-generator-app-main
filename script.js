@@ -8,3 +8,8 @@ async function getAdvice() {
       document.querySelector("#buttonContainer button").classList.remove("loading")
     });
 }
+
+
+function changeTheme(){
+  document.body.classList.toggle("light")
+}
