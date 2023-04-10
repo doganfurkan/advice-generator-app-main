@@ -26,8 +26,10 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop](./images/ss.png)
+![Desktop](./images/ss-light.png)
+![Mobile](./images/ss-light-mobile.png)
 ![Mobile](./images/ssmobil.png)
+![Desktop](./images/ss.png)
 
 
 ### Links
