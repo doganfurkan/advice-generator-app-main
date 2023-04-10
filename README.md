@@ -71,5 +71,5 @@ This is the first time I'm using cache property for fetchAPI
 
 ## Author
 
-- Github - [@yourusername](https://www.github.com/doganfurkan)
+- Github - [@doganfurkan](https://www.github.com/doganfurkan)
 - Frontend Mentor - [@doganfurkan](https://www.frontendmentor.io/profile/doganfurkan)
