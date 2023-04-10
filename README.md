@@ -28,8 +28,8 @@ Users should be able to:
 
 ![Desktop](./images/ss-light.png)
 ![Mobile](./images/ss-light-mobile.png)
-![Mobile](./images/ssmobil.png)
-![Desktop](./images/ss.png)
+![Mobile](./images/ss-dark-mobile.png)
+![Desktop](./images/ss-dark.png)
 
 
 ### Links
